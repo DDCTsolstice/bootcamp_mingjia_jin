@@ -1,0 +1,7 @@
+name: fe-course
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - defaults
+dependencies:
+  - python=3.11
+prefix: /opt/miniconda3/envs/fe-course

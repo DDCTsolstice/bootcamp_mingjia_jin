@@ -1,3 +1,5 @@
+python version = 3.11
+
 # Project Title
 **Stage:** Problem Framing & Scoping (Stage 01)
 
@@ -43,3 +45,10 @@ Goal → Stage → Deliverable
 - `/notebooks/` → exploratory analysis and experiments  
 - `/docs/` → stakeholder memo, reports, project documentation  
 - Cadence: updated weekly as project progresses  
+
+# Bootcamp Project – Stage 02
+
+This project sets up a reproducible Python environment with secrets management, 
+Jupyter notebooks, and modular code structure. 
+The purpose is to provide a clean scaffold for financial engineering workflows.
+
